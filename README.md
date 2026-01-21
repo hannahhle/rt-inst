@@ -1,2 +1,2 @@
 # rt-inst
-my final project for aos 180: numerical methods in atmospheric science at UCLA
+my final project for aos 180: numerical methods in atmospheric science at UCLA - rayleigh taylor instability
